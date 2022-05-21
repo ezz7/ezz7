@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="section_name">Section</string>
+    <string name="type_of_section">Type of Section</string>
+    <string name="content_of_section">content of section</string>
+    <string name="pillar_name">pillar Name</string>
+    <string name="publication_date">Publication Date</string>
+    <string name="no_internet_connection">Check you internet connection!</string>
+    <string name="no_news_found">No News Found Were Found!</string>
+</resources>
